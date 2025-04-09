@@ -140,14 +140,4 @@ For best classification results:
    - Try creating a fresh virtual environment
    - Check Python version compatibility
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Acknowledgments
-
-- [Add any acknowledgments, references, or credits here] 
+I will update this as developments continue.
