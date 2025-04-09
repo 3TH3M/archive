@@ -24,7 +24,7 @@ A real-time computer vision system for detecting and classifying maize (corn) di
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/3TH3M/maize_disease_classification.git
 cd maize-disease-classification
 ```
 
